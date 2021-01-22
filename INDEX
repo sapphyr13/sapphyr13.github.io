@@ -1,7 +1,112 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <title>CV Melissa Lejeune</title>
+    <meta charset="UTF-8">
+    <meta name="viewport">
+
+    <link rel="stylesheet" href="style.css">
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+    <header>
+    </header>
+    <section>
+        <section>
+            <div class="photo">
+                <img class="photo" src=""https://www.casimages.com/i/210114120411366006.png.html' target='_blank'><img src='https://nsa40.casimages.com/img/2021/01/14/mini_210114120411366006.png' border='0' alt='Mon image' /></a>
+            </div>
+            <div class="prez">
+                <h1>Mélissa Lejeune </h1>
+                <br>
+                <h2>Créative, organisée, autonome</h2>
+            <br>
+            <br>
+                <h3>Skills</h3>
+                <br>
+        <div class="comp">
+            <p><b>SUITE ADOBE : </b> Photoshop, Illustrator, InDesign, Premiere Pro,  After Effect, Adobe XD, Lightroom</p>
+            <div class="conteneur-barre"><span class="barre c100"></span></div>
+            <br>
+        </div>
+        <div class="comp">
+            <p><b>SUITE OFFICE : </b>Word, Excel, Powerpoint</p>
+            <div class="conteneur-barre"><span class="barre c95"></span></div>
+            <br>
+        </div>
+        <div class="comp">
+            <p><b>RESEAUX SOCIAUX : </b> Facebook, Instagram, Linkedin </p>
+            <div class="conteneur-barre"><span class="barre c90"></span></div>
+            <br>
+        </div>
+        <div class="comp">
+            <p><b>LANGUES : </b>Français et anglais </p>
+            <div class="conteneur-barre"><span class="barre c100"></span></div>
+    </section>    
+    <br>
+    <br>
+    <section>
+        <div class="prez">
+            <h3>Expériences</h3>
+            <br>
+    <div class="comp">
+        <p><b>ALTERNANCE :</b> Assitante marketing et communication au Casino Partouche de Dieppe - Janvier 2019 à aujourd’hui</p>
+        <div class="conteneur-barre"><span class="barre c100"></span></div>
+        <br>
+    </div>
+    <div class="comp">
+        <p><b>STAGE :</b> Chargée de communication au Bifrost Club - Mai/Juin 2018</p>
+        <div class="conteneur-barre"><span class="barre c95"></span></div>
+        <br>
+    </div>
+    </section>  
+    <br>
+    <br>
+    <section>
+        <div class="prez">
+            <h3>Etudes</h3>
+            <br>
+    <div class="comp">
+        <p><b>2020/2022 :</b> Master Expert Marketing Digital - ISD Flaubert</p>
+        <div class="conteneur-barre"><span class="barre c100"></span></div>
+        <br>
+    </div>
+    <div class="comp">
+        <p><b>2020 : </b> Bachelor Chef de projet digital - NWS Rouen</p>
+        <div class="conteneur-barre"><span class="barre c95"></span></div>
+        <br>
+    </div>
+    <div class="comp">
+        <p><b> 2019 : </b> BTS Communication - ISPN Rouen</p>
+        <div class="conteneur-barre"><span class="barre c95"></span></div>
+        <br>
+    </div>
+    <div class="comp">
+        <p><b>2016 :</b> Baccalauréat ES, option audiovisuel - Lycée Jehan Ango </p>
+        <div class="conteneur-barre"><span class="barre c95"></span></div>
+        <br>
+    </div>
+</section>    
+<br>
+<br>
+<section>
+    <div class="prez">
+        <h3>Contact</h3>
+        <br>
+<div class="comp">
+    <p>76100 ROUEN - PERMIS B - Véhiculé</p>
+    <div class="conteneur-barre"><span class="barre c100"></span></div>
+    <br>
+</div>
+<div class="comp">
+    <p>MELISSALEJEUNE4@GMAIL.COM</p>
+    <div class="conteneur-barre"><span class="barre c95"></span></div>
+    <br>
+</div>
+<div class="comp">
+    <p>06.18.01.38.15</p>
+    <div class="conteneur-barre"><span class="barre c95"></span></div>
+    <br>
+</div>
+</section>  
 </body>
 </html>
