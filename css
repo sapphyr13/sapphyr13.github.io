@@ -1,0 +1,36 @@
+/*STYLES GENERAUX*/
+*{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    box-sizing: border-box;
+}
+body{
+    background: #DFE6ED;
+}
+p{
+    font-size: 1em;
+    line-height: 1.5em;
+}
+.photo {
+    clip-path: ellipse(6% 40%);
+  }
+
+  h1 {
+    font-size: 40px;
+    font-family: serif;    
+    color: #252525;
+  }
+
+h2 {
+    font-size: 20px;
+    font-family: cursive;
+    color: #5261a1;
+}
+
+h3 {
+  font-size: 20px;
+  font-family: serif;
+  color: #C38D8E;
+}
+
